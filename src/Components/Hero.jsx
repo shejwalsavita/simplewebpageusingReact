@@ -20,7 +20,7 @@ function Hero(){
                  </div>
                  
                </div>
-               <div class="hero-image">
+               <div class="hero-images">
                   <img src="./public/Images/hero-image.png"/>
                </div>
               
